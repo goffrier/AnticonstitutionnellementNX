@@ -7,4 +7,4 @@ How to use it:
 
 
 1-extract the files to your sd
-2-follow this guide: https://switch.homebrew.guide/
+2-follow this guide: https://switch.homebrew.guide/gettingstarted/choosinganexploit and select the exploit you need accordingly to your FW
