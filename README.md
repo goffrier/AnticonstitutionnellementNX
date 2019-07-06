@@ -1,6 +1,6 @@
 # AnticonstitutionnellementNX
 Pegascape distro,fueled by ReiNX!
-Credits: @Rei, and elise,MarieKirya,Calypso,Pegascape by the AtlasNX team
+Credits: @Rei, and elise,MarieKirya,Calypso,Pegascape by the AtlasNX team,switchbrew for hbl.nsp and hbmenu.nro
 How to use it:
 
 
