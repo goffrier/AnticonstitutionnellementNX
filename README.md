@@ -1,6 +1,6 @@
 # AnticonstitutionnellementNX
 Pegascape distro,fueled by ReiNX!
-Credits: @Rei, and elise,MarieKirya,Calypso
+Credits: @Rei, and elise,MarieKirya,Calypso,Pegascape by the AtlasNX team
 How to use it:
 
 
